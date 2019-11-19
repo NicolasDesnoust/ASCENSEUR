@@ -1,7 +1,7 @@
 # ASCENSEUR - GENIE LOGICIEL
 
 ## Lancer la simulation
-Pour lancer la simulation, ouvrez un terminal, placez-vous dans le dossier ASCENSEUR/src
+Pour lancer la simulation ouvrez un terminal, placez-vous dans le dossier ASCENSEUR/src
 et exécutez les commandes suivantes (LINUX):  
 $ chmod +x run.sh  
 $ ./run.sh
