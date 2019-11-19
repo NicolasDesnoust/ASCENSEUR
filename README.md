@@ -1,5 +1,7 @@
 # ASCENSEUR - GENIE LOGICIEL
 
+![Immobile](screenshots/Immobile.png?raw=true "Immobile")
+
 ## Lancer la simulation
 Pour lancer la simulation ouvrez un terminal, placez-vous dans le dossier ASCENSEUR/src
 et exécutez les commandes suivantes (LINUX):  
@@ -9,6 +11,8 @@ $ ./run.sh
 Pour supprimer les fichiers .class générés à l'étape précédente:  
 $ chmod +x clean.sh  
 $ ./clean.sh
+
+![Ouverture](screenshots/Ouverture.png?raw=true "Ouverture")
 
 ## Description du projet
 Ce projet est réalisé dans le cadre du cours de Génie logiciel du Master 1 Ingénierie du logiciel et des données. 
@@ -20,3 +24,5 @@ L'interface met à disposition de l'utilisateur les éléments suivants:
 - Un bouton d'arrêt d'urgence pour stopper l'ascenseur.
 - Un bouton pour simuler le fait que la cabine a atteint le prochain niveau dans le sens de progression.
 - Un panneau affichant le dernier niveau atteint et le sens de progression.
+
+![Urgence](screenshots/Urgence.png?raw=true "Urgence")
