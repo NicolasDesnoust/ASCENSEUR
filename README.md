@@ -3,11 +3,11 @@
 ## Lancer la simulation
 Pour lancer la simulation, ouvrez un terminal, placez-vous dans le dossier ASCENSEUR/src
 et exécutez les commandes suivantes (LINUX):
-$ chmod +x run.sh
+$ chmod +x run.sh  
 $ ./run.sh
 
 Pour supprimer les fichiers .class générés à l'étape précédente:
-$ chmod +x clean.sh
+$ chmod +x clean.sh  
 $ ./clean.sh
 
 ##Description du projet
